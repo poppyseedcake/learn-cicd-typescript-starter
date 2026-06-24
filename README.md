@@ -1,5 +1,4 @@
-![badge]
-(https://github.com/poppyseedcake/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![badge](https://github.com/poppyseedcake/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
